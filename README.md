@@ -1,2 +1,2 @@
 # personal-test-repo-2
-test
+test 2
